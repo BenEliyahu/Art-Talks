@@ -1,0 +1,70 @@
+{
+  "arts": [
+    {
+      "picture": "https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "title": "Abstract Patterns",
+      "artist": "David Lee",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac ante vel nunc commodo varius."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1500964757637-c85e8a162699?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1203&q=80",
+      "title": "Vibrant City Life",
+      "artist": "Sophia Johnson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel ultrices odio."
+    },
+    {
+      "picture": "https://media.gettyimages.com/id/458716003/photo/we-the-youth-by-keith-haring.jpg?s=612x612&w=gi&k=20&c=gQFZ7dgjykK1x7Y7F8o9nDx7Q111xqYce9hDK0dXtPc=",
+      "title": "We The Youth",
+      "artist": "Keith Haring",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo dolor vitae scelerisque."
+    },
+    {
+      "picture": "https://media.gettyimages.com/id/630812271/photo/birth-of-venus-by-p-j-cazes-oil-on-canvas.jpg?s=612x612&w=gi&k=20&c=L0DAQr-oMjiOWaNtqoYuRcaL2H-cFPSJnaFC_cOr9-E=",
+      "title": "Birth of Venus",
+      "artist": "P. J. Cazes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut mi eu orci dignissim scelerisque nec et odio."
+    },
+    {
+      "picture": "https://media.gettyimages.com/id/463898209/vector/the-birth-of-venus-c1485-artist-sandro-botticelli.jpg?s=612x612&w=gi&k=20&c=qc2au4vop-7FOWeTPrA5UNcLGgJC2YYAqMl0Ck8BudA=",
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "picture": "https://media.gettyimages.com/id/625257322/photo/bedroom-in-arles.jpg?s=612x612&w=gi&k=20&c=7qltKEYHRqoa7JEcBxXkD6c7fxR0I3JdRjoAzG5rIbM=",
+      "title": "Bedroom in Arles",
+      "artist": "Vincent van Gogh",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed justo nec metus hendrerit facilisis eu eget urna."
+    },
+    {
+      "picture": "https://media.gettyimages.com/id/514890560/photo/the-last-supper.jpg?s=612x612&w=gi&k=20&c=-YHgpCqRm0iMvDtK9cMY3eCDY7nEO5QvzvggLZW830o=",
+      "title": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod, erat ut congue mattis, libero justo euismod velit."
+    },
+    {
+      "picture": "https://media.gettyimages.com/id/56457684/photo/la-primavera-detail.jpg?s=612x612&w=gi&k=20&c=11LglDL8Vn9P2Mqlhuks2ATSPS8f3VbsDeNouJ-5-pU=",
+      "title": "La Primavera",
+      "artist": "Detail",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget magna vel ex dignissim posuere."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1513151233558-d860c5398176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Autumn in the Park",
+      "artist": "Aria Robinson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam convallis justo eu neque fringilla, vel lacinia eros eleifend."
+    },
+    {
+      "picture": "https://plus.unsplash.com/premium_photo-1685082778336-282f52a3a923?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "title": "Night Sky",
+      "artist": "Alexander Adams",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod quam sit amet facilisis cursus."
+    },
+    {
+      "picture": "https://plus.unsplash.com/premium_photo-1664304077938-d9f65c41583c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Rural Landscape",
+      "artist": "Grace Phillips",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vulputate tortor a dui auctor iaculis."
+    }
+  ]
+}
