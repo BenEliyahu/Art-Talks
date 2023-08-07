@@ -5,7 +5,7 @@ const { Server } = require('socket.io');
 const artsRoutes = require('./routes/artsRoutes');
 
 const app = express();
-const PORT = 5000;
+const PORT = 8000;
 const FRONTEND_ORIGIN = 'http://localhost:3000';
 
 

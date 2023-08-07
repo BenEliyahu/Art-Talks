@@ -7,7 +7,7 @@ const Chat = ({ artId }) => {
   const [messageInput, setMessageInput] = useState('');
 
   useEffect(() => {
-    const socket = io('http://localhost:5000', {
+    const socket = io('http://localhost:8000', {
       cors: {
         origin: 'http://localhost:3000',
       },
@@ -29,7 +29,7 @@ const Chat = ({ artId }) => {
   };
 
   const handleSendMessage = () => {
-    const socket = io('http://localhost:5000');
+    const socket = io('http://localhost:8000');
     socket.emit('chatMessage', artId, messageInput);
     setMessageInput('');
   };
